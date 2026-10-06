@@ -1,6 +1,6 @@
 {
   "appId": "com.axon.app",
-  "appName": "AXON",
+  "appName": "Axon",
   "webDir": "dist",
   "server": {
     "androidScheme": "https"
